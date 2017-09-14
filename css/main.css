@@ -1,0 +1,25 @@
+h1,h2,ul,h3,.edu-text {
+    font-family: helvetica;
+}
+
+h1 {
+    text-shadow: 2px 2px 30px green;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(76,175,80,0.75);
+}
+
+.main {
+    background-color: white;
+    border-radius: 20%;
+    margin: 0 20%;
+    padding: 1px 50px 30px 100px;
+    box-shadow: 3px 3px 10px black;
+}
+    
+
